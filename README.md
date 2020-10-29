@@ -33,33 +33,41 @@ We do not share any personal information.
 Neither Readahad nor any third party services are using tracking technologies.
 
 **4. Social Logins**
+
 Readahad does not use any social login functionality.
 
 
 **5. In-app Purchase Information**
+
 Readahad does not process any in-app purchase information.
 
 
 **6. Children's Personal Information**
+
 Users of Readahad must be at least 13 years old. We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child, we will take all reasonable steps to delete it as soon as possible. If you become aware that a child has provided personal information to us, please contact us at the contact information below.
 
 **7. How Long We Keep Your Personal Information**
+
 Readahad does not collect any personal information.
 
 
 **8. How We Protect Your Personal Information**
+
 Readahad does not collect any personal information.
 
 
 **9. Policy Changes**
+
 When we make material changes to this privacy policy, for example, due to app updates or changes in the law, we will post the updated policy here. The policy will always apply in the version at the time of your use of Readahad even if you downloaded Readahad at a time when a previous policy version was applicable.
 
 
 **10. Accessibility**
+
 This website conforms to the Web Content Accessibility Guidelines (WCAG) 2.1. However, if you are having difficulties obtaining information from it, please contact us at the contact information below. We will try to make the information available to you in another format and answer any question that you may have.
 
 
 **11. Contact Us**
+
 Please contact us if you have any questions or concerns.
 
 Bogdan Zarioiu
