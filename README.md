@@ -19,14 +19,17 @@ We are the developers of Readahad. This privacy policy describes how we process 
  11. Contact Us
 
 **1. Personal Information Collection and Use**
-<br>We may receive technical information about your device, for example, its IP address or operating system.
+
+We may receive technical information about your device, for example, its IP address or operating system.
 
 
 **2. Personal Information Sharing**
+
 We do not share any personal information.
 
 
 **3. Tracking Technologies**
+
 Neither Readahad nor any third party services are using tracking technologies.
 
 **4. Social Logins**
