@@ -63,4 +63,4 @@ Bogdan Zarioiu</br>
 
 bogdanzarioiu@gmail.com</br>
 
-This privacy policy was generated with PrivacyFlash Pro
+This privacy policy was generated with PrivacyFlash Pro.
