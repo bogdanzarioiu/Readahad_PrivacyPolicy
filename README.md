@@ -19,7 +19,7 @@ We are the developers of Readahad. This privacy policy describes how we process 
  11. Contact Us
 
 **1. Personal Information Collection and Use**
-We may receive technical information about your device, for example, its IP address or operating system.
+<br>We may receive technical information about your device, for example, its IP address or operating system.
 
 
 **2. Personal Information Sharing**
