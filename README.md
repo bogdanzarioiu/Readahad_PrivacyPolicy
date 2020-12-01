@@ -19,8 +19,7 @@ We are the developers of Readahad. This privacy policy describes how we process 
  11. Contact Us
 
 **1. Personal Information Collection and Use**
-
-We may receive technical information about your device, for example, its IP address or operating system.
+Readahad does not collect any personal information.
 
 
 **2. Personal Information Sharing**
@@ -44,7 +43,7 @@ Readahad does not process any in-app purchase information.
 
 **6. Children's Personal Information**
 
-Users of Readahad must be at least 13 years old. We do not knowingly collect personal information from children. If we learn that we have collected personal information from a child, we will take all reasonable steps to delete it as soon as possible. If you become aware that a child has provided personal information to us, please contact us at the contact information below.
+We do not knowingly collect personal information from children.
 
 **7. How Long We Keep Your Personal Information**
 
