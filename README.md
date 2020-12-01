@@ -2,7 +2,7 @@
 # Privacy Policy for the Readahad App
 
 
-Last updated: 10/29/2020
+Last updated: 01/12/2020
 
 We are the developers of Readahad. This privacy policy describes how we process your personal information and which privacy rights you have when you are using Readahad. Please contact us at the contact information below if you have any questions or comments.
 
@@ -19,6 +19,7 @@ We are the developers of Readahad. This privacy policy describes how we process 
  11. Contact Us
 
 **1. Personal Information Collection and Use**
+
 Readahad does not collect any personal information.
 
 
